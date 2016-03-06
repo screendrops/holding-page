@@ -1,0 +1,48 @@
+@font-face {
+  font-family: 'Maax';
+  src: url('Maax.eot');
+  src: url('Maax.eot?#iefix') format('embedded-opentype'),
+       url('Maax.woff') format('woff'),
+       url('Maax.ttf')  format('truetype'),
+       url('Maax.svg#88df8bbdce2565298957d42b5070cfa8') format('svg');
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+@font-face {
+  font-family: 'Maax-bold';
+  src: url('Maax-Bold.eot');
+  src: url('Maax-Bold.eot?#iefix') format('embedded-opentype'),
+       url('Maax-Bold.woff') format('woff'),
+       url('Maax-Bold.ttf')  format('truetype'),
+       url('Maax-Bold.svg#35e260cdab8fc0520542573e2b971ff7') format('svg');
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+@font-face {
+  font-family: 'Maax-mono';
+  src: url('Maax-RegularMono.eot');
+  src: url('Maax-RegularMono.eot?#iefix') format('embedded-opentype'),
+       url('Maax-RegularMono.woff') format('woff'),
+       url('Maax-RegularMono.ttf')  format('truetype'),
+       url('Maax-RegularMono.svg#93ee25dc7d8460c47dc65915b3f241ac') format('svg');
+       
+  font-style:   normal;
+  font-weight:  400;
+}
+
+/*@font-face {
+  font-family: 'Maax';
+  src: url('205 - Maax-RegularMonoItalic.eot');
+  src: url('205 - Maax-RegularMonoItalic.eot?#iefix') format('embedded-opentype'),
+       url('205 - Maax-RegularMonoItalic.woff') format('woff'),
+       url('205 - Maax-RegularMonoItalic.ttf')  format('truetype'),
+       url('205 - Maax-RegularMonoItalic.svg#c30c7ef1981644f95b5595bd99a1151b') format('svg');
+       
+  font-style:   italic;
+  font-weight:  400;
+}*/
+
